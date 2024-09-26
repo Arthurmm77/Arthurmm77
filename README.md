@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthurmm77
 - 👀 I’m interested in something to work and learn design and development of web applications.
-- 🌱 I’m currently learning full stack development (Javascript, HTML,CSS)
+- 🌱 I’m currently learning full stack development (Javascript, HTML,CSS,React,SQL,Node.js)
 - 📫 How to reach me: thurgamer77@gmail.com
 
 ## 🚀 Skills
