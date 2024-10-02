@@ -42,5 +42,5 @@ Actualmente, estoy aprendiendo más sobre backend, estamos trabajando en equipo 
 
 Si tienes alguna pregunta o colaboración en mente, no dudes en contactarme:
 
-- **Correo electrónico:** [tuemail@example.com](thurgamer77@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/arturomencia/)
+- **Correo electrónico:** (thurgamer77@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/arturomencia/)
