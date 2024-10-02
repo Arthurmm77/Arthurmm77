@@ -35,6 +35,11 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 Actualmente, estoy aprendiendo más sobre backend, estamos trabajando en equipo en mySQL generando una base de datos y utilizando el metodo CRUD.
 
+## 📊 Lenguajes más utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurmm77&theme=blue-green)
+
+
 Si tienes alguna pregunta o colaboración en mente, no dudes en contactarme:
 
 - **Correo electrónico:** [tuemail@example.com](thurgamer77@gmail.com)
