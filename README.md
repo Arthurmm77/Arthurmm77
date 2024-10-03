@@ -1,6 +1,6 @@
-# ¡Hola, soy Arturo 👋
+# ¡Hola, soy [Arturo]! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador Full Stack Junior** apasionado por la tecnología y el desarrollo  web. Me encanta aprender y mejorar nuevas habilidades, y GitHub es donde comparto lo que he estado construyendo.
+¡Bienvenido a mi perfil de GitHub! Soy un **desarrollador Full Stack Junior** apasionado por la tecnología y el desarrollo  web. Me encanta aprender y mejorar nuevas habilidades y GitHub es donde comparto lo que he estado construyendo.
 
 ---
 
