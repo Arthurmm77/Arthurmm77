@@ -33,8 +33,10 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 ## 🌱 En qué estoy trabajando
 
-Actualmente, estoy aprendiendo más sobre backend, estamos trabajando en equipo en mySQL generando una base de datos y utilizando el metodo CRUD.
-### [BookBackend](https://github.com/Arthurmm77/backend-book)
+Estoy desarrollando un proyecto llamado **GitGame** 🎮 – un blog hecho por amantes de videojuegos para quienes disfrutan del mundo gamer. Aquí compartimos reseñas, novedades y análisis de videojuegos. ¡Mantente al tanto para ver cómo evoluciona este proyecto!
+
+Puedes seguir el progreso aquí: [GitGame Repository](https://github.com/Wilder-Aguilar/gitGame)
+
 ## 📊 Lenguajes más utilizados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurmm77&theme=blue-green)
