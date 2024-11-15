@@ -11,11 +11,11 @@ Como desarrollador Full Stack Junior, estoy familiarizado con las siguientes tec
 
 ### Frontend:
 
-<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend:
 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />![Multer](https://img.shields.io/badge/Multer-FF7A3F?style=for-the-badge&logo=multer&logoColor=white)[![Sequelize](https://img.shields.io/badge/Sequelize-5272B4?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
 ## 💻 Mis Proyectos
 
@@ -30,12 +30,10 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 ### 3. [Simpsons memeapp](https://github.com/LorelizDev/simpsons-memeseum-project)
 **Descripción:** Sitio web utilizando el metodo CRUD para permitir a los usuarios crear memes y editarlos. Proyecto realizado en equipo utilizando React.
 - Tecnologías: HTML, CSS, JavaScript, React.
+### 4. [GitGame](https://github.com/Arthurmm77/gitGame.git)  
+**Descripción:** Un blog de videojuegos creado por y para amantes de los videojuegos. Aquí se comparten reseñas, novedades y análisis sobre este apasionante mundo.  
+- **Tecnologías:** HTML, CSS, JavaScript, React, Node.js, Express, MySQL.
 
-## 🌱 En qué estoy trabajando
-
-Estoy desarrollando un proyecto llamado **GitGame** 🎮 – un blog hecho por amantes de videojuegos para quienes disfrutan del mundo gamer. Aquí compartimos reseñas, novedades y análisis de videojuegos. ¡Mantente al tanto para ver cómo evoluciona este proyecto!
-
-Puedes seguir el progreso aquí: [GitGame Repository](https://github.com/Wilder-Aguilar/gitGame)
 
 ## 📊 Lenguajes más utilizados
 
