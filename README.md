@@ -27,7 +27,7 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 ### 2. [Escuela de Musica](https://github.com/Omarlsant/project-music-coders)
 **Descripción:** Creacion de una pagina web de una escuela de musica en equipo, utilizando diferentes ramas en github y coordinandonos su creación.
 - Tecnologías: HTML, CSS y Javascript.
-### 3. [Simpsons memeapp](https://github.com/LorelizDev/simpsons-memeseum-project)
+### 3. [Simpsons memeapp](https://github.com/Arthurmm77/simpsons-memeseum-project.git)
 **Descripción:** Sitio web utilizando el metodo CRUD para permitir a los usuarios crear memes y editarlos. Proyecto realizado en equipo utilizando React.
 - Tecnologías: HTML, CSS, JavaScript, React.
 ### 4. [GitGame](https://github.com/Arthurmm77/gitGame.git)  
